@@ -1,0 +1,1 @@
+gena_ai/models/best_swin_t_wheat_fixed.pth filter=lfs diff=lfs merge=lfs -text

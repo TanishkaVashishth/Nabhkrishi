@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+chromadb
+pypdf
+sentence-transformers
+python-dotenv
+openai
+torchvision
+pillow
+python-multipart

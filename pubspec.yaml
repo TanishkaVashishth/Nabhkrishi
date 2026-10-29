@@ -1,0 +1,44 @@
+name: nabhkrishi
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.11.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_animate: ^4.5.2
+  flutter_svg: ^2.2.0
+  google_fonts: ^6.3.0
+  lottie: ^2.7.0
+  shared_preferences: ^2.5.5
+  firebase_core: ^4.13.0
+  firebase_auth: ^6.5.7
+  cloud_firestore: ^6.8.0
+  fl_chart: ^0.69.0
+  google_sign_in: ^7.2.0
+  flutter_riverpod: ^2.5.1
+  geolocator: 13.0.2
+  flutter_map: ^8.3.2
+  latlong2: ^0.10.1
+  http: ^1.2.1
+  image_picker: ^1.2.3
+  flutter_markdown_plus: ^1.0.12
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/lottie/
